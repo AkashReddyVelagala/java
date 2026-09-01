@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ArBank accounts related prod APIs "
+  contactDetails:
+    name: "Akash Reddy - Developer"
+    email: "akash@arbank.com"
+  onCallSupport:
+    - 1234 567 890

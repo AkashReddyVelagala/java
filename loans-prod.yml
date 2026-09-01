@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to ArBank loans related prod APIs "
+  contactDetails:
+    name: "Akash Reddy - Developer"
+    email: "akash@arbank.com"
+  onCallSupport:
+    - 1234 567 890
