@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to ArBank cards related prod APIs "
+  message: "Welcome to ArBank cards related production APIs "
   contactDetails:
     name: "Akash Reddy - Developer"
     email: "akash@arbank.com"
