@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to ArBank cards related local APIs "
+  message: "Welcome to ArBank cards related local using bus refresh APIs "
   contactDetails:
     name: "Akash Reddy - Developer"
     email: "akash@arbank.com"
