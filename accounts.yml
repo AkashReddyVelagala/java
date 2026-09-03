@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to ArBank accounts related local APIs "
+  message: "Welcome to ArBank accounts related local updated APIs "
   contactDetails:
     name: "Akash Reddy - Developer"
     email: "akash@arbank.com"
